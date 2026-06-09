@@ -1,0 +1,5 @@
+{
+  "name": "admin-plugin",
+  "description": "Administrative task harness for the Documents folder. File organization, search & reporting, backup & sync, and directory inspection.",
+  "version": "1.0.0"
+}
