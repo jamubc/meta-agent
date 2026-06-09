@@ -1,0 +1,5 @@
+{
+  "name": "meta-agent-plugin",
+  "description": "A meta-agent that audits AI agent and skill definitions for safety.",
+  "version": "1.0.0"
+}
